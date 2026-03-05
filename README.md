@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy MatiasVeraDev👋</h1>
 <h3 align="center">💻 Ingeniería en Informática | Software Development Student</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
